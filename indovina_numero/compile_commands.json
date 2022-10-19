@@ -1,0 +1,18 @@
+[
+ {
+  "directory": "/home/mario/Documenti/Universita/Informatica/indovina_numero",
+  "arguments": [
+   "g++",
+   "-c",
+   "-g",
+   "-MMD",
+   "-MP",
+   "-MF",
+   "build/Debug/GNU-Linux/main.o.d",
+   "-o",
+   "build/Debug/GNU-Linux/main.o",
+   "main.cpp"
+  ],
+  "file": "main.cpp"
+ }
+]
