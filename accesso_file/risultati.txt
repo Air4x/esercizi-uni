@@ -1,0 +1,16 @@
+Qui i risultati:
+-
+-
+-
+Il massimo è: 0
+Il prodotto è: 1
+La somma è: 0
+Il massimo è: 0
+Il prodotto è: 1
+La somma è: 0
+Il massimo è: 0
+Il prodotto è: 1
+La somma è: 0
+Il massimo è: 9123
+Il prodotto è: -39384576
+La somma è: 26849
